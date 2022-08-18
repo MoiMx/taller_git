@@ -20,6 +20,6 @@
 # If you're wondering how this is created, it is generated using
 # `scripts/generate.py` in https://github.com/pypa/get-pip.
 
-Print ("hola Mundo");
+Print ("hola Mundo")
 
 print ("cambio desde git")
